@@ -126,7 +126,7 @@ export default function Home() {
       <div className="container mx-auto p-4 md:max-w-[65%] md:flex md:justify-center md:items-center">
         <div className="mb-4">
           <h1 className="text-2xl font-bold">Welcome to the Chivivus Metaverse</h1>
-          <p className="text-lg font-medium my-4">The very start of the Chivivus Metaverse. Join the whitelist now to ensure your access. You won't want to miss this.</p>
+          <p className="text-lg font-medium my-4">The very start of the Chivivus Metaverse. Join the whitelist now to ensure your access. You won&#39;t want to miss this.</p>
           <p className="text-lg font-medium my-4">{numberOfWhitelisted} have already joined!</p>
           {renderButton()}
         </div>
