@@ -140,7 +140,7 @@ export default function Home() {
       </div>
       <footer className="text-center py-6 border-t mt-4">
       <p className="">A <a href="https://twitter.com/YipsCT" target="blank" className="border-b border-gray-500">@YipsCT</a> Project.</p>
-      <p className="">I'm looking to do Web3 as a job. Consider Me.</p>
+      <p className="">I&#39;m looking to do Web3 as a job. Consider Me.</p>
       </footer>
     </>
   )
